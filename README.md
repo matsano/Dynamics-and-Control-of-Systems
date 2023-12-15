@@ -1,5 +1,5 @@
 # Dynamics-and-Control-of-Systems
-Automatic: Dynamics and Control of Systems Course (AUT202)
+Automatic: Dynamics and Control of Systems Course
 
 ## 📋 Description
 TD and project (TP) implemented during the course.
