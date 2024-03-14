@@ -15,4 +15,4 @@ This project was implemented in [MATLAB](https://www.mathworks.com/products/matl
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-I would like to thank our professors Mr. Thomas Budot and Mr. Nicolas Petit for the knowledge taught in AUT202 Course at [ENSTA Paris](https://www.ensta-paris.fr/) which were essential for the realization of this project.
+I would like to thank our professors Mr. Thomas Budot and Mr. Nicolas Petit for the knowledge taught in course at [ENSTA Paris](https://www.ensta-paris.fr/) which were essential for the realization of this project.
