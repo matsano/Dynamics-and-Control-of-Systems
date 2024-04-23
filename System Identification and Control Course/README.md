@@ -17,4 +17,4 @@ This project was implemented in [MATLAB](https://www.mathworks.com/products/matl
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-I would like to thank our professor Mr. Sami Tliba for the knowledge taught in course at [Université Paris Saclay](https://www.ensta-paris.fr/) which were essential for the realization of this project.
+I would like to thank our professor Mr. Sami Tliba for the knowledge taught in course at [Université Paris Saclay](https://www.universite-paris-saclay.fr/) which were essential for the realization of this project.
